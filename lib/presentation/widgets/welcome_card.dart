@@ -110,7 +110,7 @@ class WelcomeCard extends StatelessWidget {
                 ),
               ),
             ),
-          ).animate(delay: 2.7.seconds).fadeIn(
+          ).animate(delay: 2.8.seconds).fadeIn(
                 duration: 1.2.seconds,
               ),
         ],
